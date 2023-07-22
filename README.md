@@ -1,16 +1,16 @@
 # Movie Buster - Python e Django
 
-## Instalação dos pacotes
+## Install packages
 
-- Abra o terminal e rode o comando:
+- Open terminal and run the command:
 
 ```shell
 pip install -r requirements.txt
 ```
 
-## Rodando os testes
+## Running tests
 
-- Abra o terminal e rode o pytest. Lembre-se de sempre estar com o **virtual enviroment (venv) ativado**.
+- Open terminal and run pytest. Remeber to always initialize the **virtual enviroment (venv)**.
 
 ```python
 pytest --testdox -vvs
