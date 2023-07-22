@@ -1,4 +1,4 @@
-# Movie Buster - Python e Django
+# Movie Buster - Python and Django
 
 ## Install packages
 
